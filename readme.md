@@ -22,6 +22,19 @@
 
 <img src="./TP3/puntoB.jpg"/>
 
+# Practico 4
+
+<img src="./TP4/creacion_servicios.png"/>
+
+> Aca estoy creando los servicios y luego mostrandolos en consola.
+
+<img src="./TP4/phpmyadmin_nginx.png"/>
+
+> Servicio phpmyadmin(http://localhost:8000/) y nginx(http://localhost/).
+
+<img src="./TP4/utn_localhost.png"/>
+
+> Sitio de la facultad UTN FRBB corriendo de forma local.
 
 
 
