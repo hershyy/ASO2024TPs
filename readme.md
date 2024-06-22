@@ -1,3 +1,6 @@
+# Trabajo grupal
+> Gaspar del Barrio y Manuel Galdames
+
 # Practico 2
 <img src="./TP2/Screenshot_2024-04-19_15-21-59.png"/>
 
@@ -35,6 +38,7 @@
 <img src="./TP4/utn_localhost.png"/>
 
 > Sitio de la facultad UTN FRBB corriendo de forma local.
+
 
 
 
